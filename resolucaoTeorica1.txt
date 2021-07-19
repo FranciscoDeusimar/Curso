@@ -1,0 +1,17 @@
+1. O que são variáveis? Quais são as palavras-chave que usamos para declará-las? 
+//São palavras que tomam conta de comandos, que se forem usadas no código, elas fornecerão os comandos que lhe foram dados,as palavras chave podem ser:
+Var
+Let
+Constant
+2. Qual a diferença entre variáveis e constantes? 
+//A váriavel pode ser trocada quando quiser no comando, já a constante não.
+3. Quais são os 3 principais tipos de dados? 
+//Boolean, string, number
+4. Explique o tipo de dado Boolean. 
+//Boolean é um tipo de dado que age em forma de comparação, entre decidir se algo é verdadeiro ou falso.
+5. Qual a diferença entre Object e Array, em questão de posições? 
+//Object é um valor que pode guardar ourtros dentro dele, array é um valor que pode estar dentro do object como uma lista
+6. Array é um valor interno de qual tipo de dado? 
+//Armazenamento de listas
+7. Para que serve o método typeof?
+//Para identificar o tipo de dado de tal valor ou comando
